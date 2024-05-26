@@ -1,4 +1,4 @@
-# Olá, eu sou Luís! 👋
+# Oi! Eu sou Luís :)
 
 Tenho 20 anos. Estou no 4° período do curso de Sistemas para Internet da Universidade Católica de Pernambuco, onde também atuo como estagiário em desenvolvimento web.
 
