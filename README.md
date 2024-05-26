@@ -5,8 +5,8 @@ Tenho 20 anos. Estou no 4° período do curso de Sistemas para Internet da Unive
 Possuo mais experiências em Front-end, mas estou estudando Back-end no intuito de me tornar Desenvolvedor Fullstack.
 
 <div>
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=louixpng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louixpng&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=louixpng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louixpng&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 ## Skills
