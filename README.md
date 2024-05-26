@@ -9,23 +9,23 @@ Possuo mais experiências em Front-end, mas estou estudando Back-end no intuito 
   <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louixpng&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
-## Skills
+# Skills
 
-### Linguagens
+## Linguagens
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java)](https://skillicons.dev)
 
-### Frameworks, Plataformas e Bibliotecas
+## Frameworks, Plataformas e Bibliotecas
 #### Front-end 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite)](https://skillicons.dev)
 
 #### Back-end
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,spring)](https://skillicons.dev)
 
-#### Bancos de dados
-[![My Skills](https://skillicons.dev/icons?i=postgresql,supabase)](https://skillicons.dev)
-
 #### Outros
 [![My Skills](https://skillicons.dev/icons?i=npm,git,figma,photoshop,illustrator)](https://skillicons.dev)
+
+## Bancos de dados
+[![My Skills](https://skillicons.dev/icons?i=postgresql,supabase)](https://skillicons.dev)
 
 <!--
 **louixpng/louixpng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
