@@ -17,6 +17,7 @@ Possuo mais experiências em Front-end, mas estou estudando Back-end no intuito 
 ## Frameworks, Plataformas e Bibliotecas
 #### Front-end 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite)](https://skillicons.dev)
+<img height="46rem" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png"/>
 
 #### Back-end
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize,spring)](https://skillicons.dev)
