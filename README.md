@@ -1,8 +1,6 @@
 # Oi! Eu sou Luís :)
 
-Tenho 20 anos. Estou no 4° período do curso de Sistemas para Internet da Universidade Católica de Pernambuco, onde também atuo como estagiário em desenvolvimento web.
-
-Possuo mais experiências em Front-end, mas estou estudando Back-end no intuito de me tornar Desenvolvedor Fullstack.
+Tenho 21 anos. Sou desenvolvedor fullstack, graduado em Sistemas para Internet pela Universidade Católica de Pernambuco. Hoje, atuo na Deloitte como Analista de Sistemas Júnior I.
 
 <div>
   <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=louixpng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
