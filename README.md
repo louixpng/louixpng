@@ -1,6 +1,6 @@
 # Oi! Eu sou Luís :)
 
-Tenho 21 anos. Sou desenvolvedor fullstack, graduado em Sistemas para Internet pela Universidade Católica de Pernambuco. Hoje, atuo na Deloitte como Analista de Sistemas Júnior I.
+Tenho 21 anos. Sou desenvolvedor fullstack, graduado em Sistemas para Internet pela Universidade Católica de Pernambuco. Hoje, atuo na Accenture Brasil como Custom Software Engineering Associate, desenvolvendo na plataforma ServiceNow.
 
 <div>
   <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=louixpng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
